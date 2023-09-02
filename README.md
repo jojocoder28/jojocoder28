@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jojocoder28
 - 👀 I’m interested in coding and making new awesome projects
-- 🌱 I’m currently studying B.Sc. Computer Science
+- 🌱 I’ve completed B.Sc. Computer Science
 - 💞️ I’m looking to collaborate on CS projects
 - 📫 How to reach me mail- dasjojo7@gmail.com
 
