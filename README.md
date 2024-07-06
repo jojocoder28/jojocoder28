@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <bSwarnadeep Das</b>
+                <b>Swarnadeep Das</b>
         </samp>
 </h3>
 
@@ -72,8 +72,8 @@
 <br/>
 
 ## Top Projects -
-[![RAG](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/Mutual_Fund_Chatbot)
-[![eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/Mutual_Fund_Chatbot)
+[![RAG](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=Mutual_Fund_Chatbot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/Mutual_Fund_Chatbot)
+[![eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=eCommerece_JSP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/eCommerece_JSP)
 [![Swarnadeep Das Readme](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=jojocoder28&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/jojocoder28)
 
 <p align="left">
