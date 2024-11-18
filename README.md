@@ -85,9 +85,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/jojocoder28">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojocoder28&theme=radical&border=7F3FBF&background=0D1117" alt="Jojo's GitHub streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=jojocoder28&theme=highcontrast" alt="Jojo's GitHub Streak" /></a>
 </p>
 
 <p align="center">
