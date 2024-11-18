@@ -87,7 +87,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=jojocoder28&theme=highcontrast" alt="Jojo's GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=jojocoder28&theme=github-dark-blue" alt="Jojo's GitHub Streak" /></a>
 </p>
 
 <p align="center">
