@@ -73,6 +73,8 @@
 
 ## Top Projects -
 [![RAG](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=Mutual_Fund_Chatbot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/Mutual_Fund_Chatbot)
+[![AADS-Adaptive AI Driven Smart Environment for Car](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=Adaptive-AI-Driven-Smart-Environment-for-Car&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/Adaptive-AI-Driven-Smart-Environment-for-Car)
+[![Music Data Analysis and Prediction](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=music_dataset_analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/music_dataset_analysis)
 [![eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=eCommerece_JSP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/eCommerece_JSP)
 [![Swarnadeep Das Readme](https://github-readme-stats.vercel.app/api/pin/?username=jojocoder28&repo=jojocoder28&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jojocoder28/jojocoder28)
 
